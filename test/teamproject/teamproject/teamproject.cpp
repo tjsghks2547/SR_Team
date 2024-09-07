@@ -7,7 +7,9 @@ int main()
 {
     int a = 14; 
     int b = 15;
-    std::cout << "Hello World!\n";
+    int c = 13;
+
+       std::cout << "Hello World!\n";
     
-    return  a+b 
+       return  a + b;
 }
